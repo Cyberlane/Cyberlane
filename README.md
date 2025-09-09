@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Full Stack Developer with a passion for building scalable solutions. I've had the opportunity to work across various industries around the globe. Currently, I reside in Sweden, but I'm spending the remainder of the year in Tokyo, Japan, working as a consultant.
+I'm a Full Stack Developer with a passion for building scalable solutions. I've had the opportunity to work across various industries around the globe. Currently, I reside in Japan working as a Senior Product Engineer for Cogent Labs.
 
 ---
 
@@ -67,7 +67,7 @@ I love traveling the world and can't go a day without a good cup of coffee! ☕
 
 ### 👨‍💻 自己紹介
 
-フルスタックデベロッパーとして、スケーラブルなソリューションを構築することに情熱を持っています。これまでに、世界各国のさまざまな業界で働く機会に恵まれました。現在はスウェーデンに住んでいますが、今年の残りは日本の東京でコンサルタントとして働いています。
+フルスタックデベロッパーで、スケーラブルなソリューションを構築することに情熱を持っています。これまでに、世界中のさまざまな業界で働く機会に恵まれました。現在は日本に住んでおり、Cogent Labsでシニアプロダクトエンジニアとして働いています。
 
 ---
 
