@@ -51,12 +51,6 @@ I'm slowly getting back into contributing to open-source projects. Stay tuned fo
 
 ---
 
-### 📬 Get in Touch
-
-- **Email**: [github@cyber-lane.se](mailto:github@cyber-lane.se)
-
----
-
 ### 🌟 Fun Fact
 
 I love traveling the world and can't go a day without a good cup of coffee! ☕
@@ -107,12 +101,6 @@ I love traveling the world and can't go a day without a good cup of coffee! ☕
 ### 💬 座右の銘
 
 「**七転び八起き**」- 七転び八起き。
-
----
-
-### 📬 連絡方法
-
-- **メール**: [github@cyber-lane.se](mailto:github@cyber-lane.se)
 
 ---
 
