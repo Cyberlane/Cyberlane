@@ -1,109 +1,66 @@
-# Hi there, I'm Justin! 👋 | こんにちは、ジャスティンです！👋
+![Tokyo skyline at blue hour, viewed from a quiet rooftop](assets/hero-tokyo.png)
 
-[English](#-english) | [日本語](#-日本語)
+# Hi, I’m Justin.
 
----
+**A maker and engineering leader based in Tokyo.**
 
-## 🇬🇧 English
+[日本語はこちら](#日本語) · [Say hello](https://cyber-lane.com/)
 
-### 👨‍💻 About Me
+## ![About me](assets/about.png)
 
-I'm a Full Stack Developer with a passion for building scalable solutions. I've had the opportunity to work across various industries around the globe. Currently, I reside in Japan as Head of Engineering (CTO candidate) at [Looop](https://looop.co.jp/), seconded to [Glamo](https://www.glamo.co.jp/).
+I love creating things. Software, electronics, game engines, games. My curiosity takes me in plenty of directions, and I enjoy following an idea to see what it might become.
 
----
+Professionally, I’m Head of Engineering at [Looop](https://looop.co.jp/), seconded to [Glamo](https://www.glamo.co.jp/).
 
-### 🛠 Skills & Tools
+## ![Things I build](assets/build.png)
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FP-TS](https://img.shields.io/badge/FP--TS-%23FFD700.svg?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![ServiceBus](https://img.shields.io/badge/ServiceBus-%230A84FF.svg?style=for-the-badge)
-![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-%2300ADEF.svg?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+Some ideas live on a screen. Others involve circuit boards, solder, and a desk covered in parts.
 
----
+I enjoy building useful tools, creating games and the engines behind them, and experimenting with ideas simply because they seem interesting. Learning how to make something is often part of the appeal.
 
-### 📂 Projects
+## ![Beyond the code](assets/beyond.png)
 
-#### 🌍 Government Projects
-As an architect, I've led the integration efforts for several large-scale government projects, working extensively with **Microsoft BC**, **DataVerse**, and various third-party platforms. 
+I love being around creative people. People who make things, explore unusual ideas, or get excited explaining something they care about.
 
-#### 🌱 Open Source Contributions
-I'm slowly getting back into contributing to open-source projects. Stay tuned for updates on my latest work!
+Outside of building, I enjoy languages, travel, discovering different cultures, and a good cup of coffee.
+
+Whether you’re a fellow maker, a potential collaborator, or just someone with an interesting idea, [I’d love to hear from you](https://cyber-lane.com/).
 
 ---
 
-### 🌱 Interests & Hobbies
+<a id="日本語"></a>
 
-- **Language Learning**: I enjoy learning new languages and exploring different cultures.
-- **Electronics**: I used to design my own electronics, but have since shifted my focus to software and language learning.
+<details>
+<summary>日本語はこちら · ジャスティンについて</summary>
 
----
+### はじめまして、ジャスティンです。
 
-### 💬 Philosophy
+東京を拠点に、ものづくりとエンジニアリング組織のリードに取り組んでいます。
 
-"**七転び八起き**" - Fall seven times, stand up eight.
+### 自己紹介
 
----
+何かをつくることが大好きです。ソフトウェア、電子工作、ゲームエンジン、ゲーム。興味の向く先はさまざまで、思いついたアイデアがどんな形になるのか、試しながら探っていくのを楽しんでいます。
 
-### 🌟 Fun Fact
+仕事では、[Looop](https://looop.co.jp/)の Head of Engineering として、[Glamo（グラモ）](https://www.glamo.co.jp/)に出向しています。
 
-I love traveling the world and can't go a day without a good cup of coffee! ☕
+### つくるもの
 
----
+画面の中で形になるアイデアもあれば、回路基板やはんだ、部品でいっぱいの机から生まれるものもあります。
 
-## 🇯🇵 日本語
+便利なツールをつくったり、ゲームやその土台となるエンジンを開発したり。「面白そう」という気持ちから、いろいろなアイデアを試しています。つくり方を学ぶこと自体も、楽しみのひとつです。
 
-### 👨‍💻 自己紹介
+### ものづくりのほかに
 
-フルスタックデベロッパーで、スケーラブルなソリューションを構築することに情熱を持っています。これまでに、世界中のさまざまな業界で働く機会に恵まれました。現在は日本に住んでおり、[Looop](https://looop.co.jp/)の Head of Engineering（CTO候補）として[株式会社グラモ](https://www.glamo.co.jp/)に出向しています。
+何かをつくる人、ユニークなアイデアを探求する人、好きなことを夢中で語る人。そんなクリエイティブな人たちと過ごす時間が好きです。
 
----
+ものづくり以外では、語学や旅行、さまざまな文化に触れること、そしておいしいコーヒーを楽しんでいます。
 
-### 🛠 スキル & ツール
+ものづくりが好きな方、一緒に何かをつくってみたい方、面白いアイデアを話したい方。仕事のご相談も含めて、[気軽に声をかけてください](https://cyber-lane.com/)。
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FP-TS](https://img.shields.io/badge/FP--TS-%23FFD700.svg?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![ServiceBus](https://img.shields.io/badge/ServiceBus-%230A84FF.svg?style=for-the-badge)
-![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-%2300ADEF.svg?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+</details>
 
 ---
 
-### 📂 プロジェクト
+**七転び八起き**
 
-#### 🌍 政府プロジェクト
-アーキテクトとして、**Microsoft BC**、**DataVerse**、およびさまざまなサードパーティープラットフォームを活用して、大規模な政府プロジェクトの統合作業を率いてきました。
-
-#### 🌱 オープンソース貢献
-最近、再びオープンソースプロジェクトへの貢献を始めました。最新の作業については、今後の更新をお楽しみに！
-
----
-
-### 🌱 趣味・関心
-
-- **言語学習**: 新しい言語を学び、異なる文化を探求することを楽しんでいます。
-- **電子工学**: 以前は自分で電子機器を設計していましたが、今はソフトウェアと言語学習に注力しています。
-
----
-
-### 💬 座右の銘
-
-「**七転び八起き**」- 七転び八起き。
-
----
-
-### 🌟 面白い事実
-
-世界中を旅することが大好きで、コーヒーなしでは一日も過ごせません！☕
+Fall seven times, stand up eight.
