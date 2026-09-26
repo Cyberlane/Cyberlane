@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Full Stack Developer with a passion for building scalable solutions. I've had the opportunity to work across various industries around the globe. Currently, I reside in Japan working as a Senior Product Engineer for Cogent Labs.
+I'm a Full Stack Developer with a passion for building scalable solutions. I've had the opportunity to work across various industries around the globe. Currently, I reside in Japan as Head of Engineering (CTO candidate) at [Looop](https://looop.co.jp/), seconded to [Glamo](https://www.glamo.co.jp/).
 
 ---
 
@@ -61,7 +61,7 @@ I love traveling the world and can't go a day without a good cup of coffee! ☕
 
 ### 👨‍💻 自己紹介
 
-フルスタックデベロッパーで、スケーラブルなソリューションを構築することに情熱を持っています。これまでに、世界中のさまざまな業界で働く機会に恵まれました。現在は日本に住んでおり、Cogent Labsでシニアプロダクトエンジニアとして働いています。
+フルスタックデベロッパーで、スケーラブルなソリューションを構築することに情熱を持っています。これまでに、世界中のさまざまな業界で働く機会に恵まれました。現在は日本に住んでおり、[Looop](https://looop.co.jp/)の Head of Engineering（CTO候補）として[株式会社グラモ](https://www.glamo.co.jp/)に出向しています。
 
 ---
 
